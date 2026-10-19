@@ -1,0 +1,2 @@
+Create page objects under a package such as framework.pages after inspecting the actual website.
+Do not invent locators. Prefer stable IDs, name attributes, or data-testid attributes.
